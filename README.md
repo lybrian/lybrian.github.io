@@ -4,7 +4,7 @@ This is the content of my personal website. Adapted from [Landing Page Jekyll th
 
 ## Web Address
 
-Please visit www.lybrian.com to view the front end.
+Please visit www.lybrian.ca to view the front end.
 
 ## Hosting
 
